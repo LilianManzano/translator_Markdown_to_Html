@@ -8,7 +8,7 @@ paragraph
 * and the third with text * in italic *
 
 then a text ** in bold **
-and another *** in bold italic***
+and another *** in bold italic ***
 
 here a forbidden textual character : _
 and here a \* syntactically incorrect text 
