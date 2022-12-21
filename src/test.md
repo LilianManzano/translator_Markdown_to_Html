@@ -5,10 +5,10 @@ sample test text
 paragraph
 * a list with 3 elements
 * the second with unformatted text
-* and the third with text * in italic *
+* and the third with text *in italic*
 
-then a text ** in bold **
-and another *** in bold italic ***
+then a text **in bold**
+and another ***in bold italic***
 
 here a forbidden textual character : _
 and here a \* syntactically incorrect text 
