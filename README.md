@@ -47,7 +47,7 @@ To test the functionalities you have the input file 'test.md'.
 
 # Contributors 
 
-- [Lilian M.](https://github.com/LilianLeVrai "")
+- [Lilian M.](https://github.com/LilianManzano "")
 - Nicolas C.
 
 
